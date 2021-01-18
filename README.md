@@ -10,4 +10,5 @@ I started coding when I was 15. When I was 16 I started coding in Python.
 - JavaScript
 - Node.js
 - Git
+- GitHub
 - Python (I'm learning)
